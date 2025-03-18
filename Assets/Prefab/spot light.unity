@@ -454,6 +454,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2829809573572725874, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_Center.x
+      value: 27.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 2829809573572725874, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.4994335
@@ -496,7 +504,64 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4169678260585314905, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
       propertyPath: m_Name
-      value: Sphere (1)
+      value: Sphere (1)kjhkjv
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+--- !u!1001 &1541419653
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.298797
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.41933727
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325558368760347480, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4169678260585314905, guid: 41910ad206f279546b6918cb7f19062a, type: 3}
+      propertyPath: m_Name
+      value: Sphere (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -737,3 +802,4 @@ SceneRoots:
   - {fileID: 2111264889}
   - {fileID: 835656632}
   - {fileID: 9149447263172235091}
+  - {fileID: 1541419653}
