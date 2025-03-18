@@ -369,6 +369,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1961442252336250086, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1961442252336250086, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
       propertyPath: m_Resource
       value: 
       objectReference: {fileID: 8300000, guid: bacdbb162a51c6c4a83f2e6496ec1662, type: 3}
@@ -377,6 +381,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: bacdbb162a51c6c4a83f2e6496ec1662, type: 3}
     - target: {fileID: 2760489957032596054, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2760489957032596054, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
       propertyPath: m_Resource
       value: 
       objectReference: {fileID: 8300000, guid: 94a3d009cd0f8e74cb93edfbd5c3f14f, type: 3}
@@ -385,6 +393,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: 94a3d009cd0f8e74cb93edfbd5c3f14f, type: 3}
     - target: {fileID: 4051383673087732920, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4051383673087732920, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
       propertyPath: m_Resource
       value: 
       objectReference: {fileID: 8300000, guid: 94a3d009cd0f8e74cb93edfbd5c3f14f, type: 3}
@@ -392,6 +404,10 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 94a3d009cd0f8e74cb93edfbd5c3f14f, type: 3}
+    - target: {fileID: 5300387988839267865, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5300387988839267865, guid: 52a095cee7d750f44bbf2da844ff317a, type: 3}
       propertyPath: m_Resource
       value: 
